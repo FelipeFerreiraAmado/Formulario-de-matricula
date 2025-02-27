@@ -36,6 +36,8 @@
 
     /* TYPOGRAPHY */
     --font-family: "Poppins", serif;
+    --text: 400 1rem/1.5 var(--font-family);
+    --text-sm: 400 .875rem/1.4 var(--font-family);
     --heading1: bold 32px/120% var(--font-family);
     --heading2: bold 24px/120% var(--font-family);
     --heading3: bold 20px/120% var(--font-family);
