@@ -43,3 +43,7 @@
     --heading3: bold 20px/120% var(--font-family);
     --heading4: bold 16px/120% var(--font-family);
 }
+
+body {
+    overflow: hidden;
+}
