@@ -54,3 +54,7 @@ label + .radio-wrapper {
         }
     }
 }
+
+.enroll-options > .input-wrapper > .radio-wrapper {
+    margin-bottom: 1.5rem;
+}
