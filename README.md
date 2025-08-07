@@ -1,17 +1,16 @@
-# Formulário de Matrícula
+# Formulário de Matrícula 🧑🏼‍🧑🏼‍🧒🏼
 
 Este repositório contém um formulário de matrícula para a escola de educação infantil 'Estrelas do Amanhã'.
 
-## Visão Geral
+## Visão Geral ⭐
 
 O formulário permite que os pais ou responsáveis preencham as informações da criança, dados de contato, informações médicas, endereço residencial e opções de matrícula, incluindo o turno de estudo e esportes.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🛠️
 
-- HTML
-- CSS
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-## Como Usar
+## Como Usar 💻
 
 1. Clone o repositório:
    ```bash
@@ -19,7 +18,7 @@ O formulário permite que os pais ou responsáveis preencham as informações da
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
-## Screenshots
+## Screenshots 📱
 
 ![Main screenshot](assets/readme/main.png)
 
@@ -33,7 +32,7 @@ O formulário permite que os pais ou responsáveis preencham as informações da
 ![Parte 2 do Formulário](assets/readme/pt2.png)
 
 
-## Funcionalidades
+## Funcionalidades 🧩
 
 - Coleta de informações da criança (nome, data de nascimento, sexo, informações médicas).
 - Coleta de informações de endereço (CEP, rua, número, cidade, estado).
@@ -42,14 +41,14 @@ O formulário permite que os pais ou responsáveis preencham as informações da
 - Seleção de esporte para inscrição (futebol, basquete, natação, yoga, volley, boxe).
 - Termos e Condições e Política de Privacidade.
 
-## Melhorias Futuras
+## Melhorias Futuras ✅
 
 - Validação de formulário mais robusta.
 - Integração com backend para persistência de dados.
 - Adição de mais opções de esporte e turnos.
 - Responsividade aprimorada para diferentes dispositivos.
 
-## Contribuição
+## Contribuição 🌞
 
 Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos:
 
@@ -59,6 +58,7 @@ Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos:
 4. Envie para a branch (`git push origin feature/sua-feature`).
 5. Abra um Pull Request.
 
-## Licença
+## Licença 🎓
+
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
